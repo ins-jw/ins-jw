@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=INSAND%20JIWON&fontSize=40&animation=fadeIn)
-### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=INSAND%20JIWON&fontSize=40&animation=fadeIn)
+
+### Hi there 👋
+<div style="text-align: center">
+<!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
+</div>
 <!--
 **ins-jw/ins-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
